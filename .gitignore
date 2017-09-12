@@ -92,5 +92,5 @@ target/
 .ipynb_checkpoints/
 
 # exclude data from source control by default
-00_data/
+#00_data/
 
